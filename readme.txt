@@ -22,6 +22,10 @@ It has two modes:
 The modes can be changed from the Settings -> Writing screen. See the screenshots.
 
 == Changelog ==
+= 0.5 =
+Updated for Gutenberg 4.1.
+Removed some functionality that now exists in Gutenberg.
+
 = 0.4 =
 Fixed removing of the "Try Gutenberg" call-out when the Gutenberg plugin is not activated.
 Fixed to always show the settings and the settings link in the plugins list table.
