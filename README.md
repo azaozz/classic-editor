@@ -1,6 +1,8 @@
 # Classic Editor
 (WordPress plugin)
 
+Note: this is the initial pre-release Classic Editor plugin, the current version is at https://github.com/WordPress/classic-editor.
+
 Restores the Classic Editor and the old-style Edit Post screen layout (TinyMCE, Meta boxes, etc.). Supports the plugins that extend this screen.
 
 ## Description
